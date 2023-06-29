@@ -1,0 +1,25 @@
+#widget-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+#question-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#submit-btn {
+  padding: 10px 20px;
+}
+
+#answer-container {
+  margin-top: 20px;
+}
